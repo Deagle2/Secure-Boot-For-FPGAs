@@ -1,10 +1,8 @@
  # Secure Boot FSM Controller for FPGAs
-
-# 🔒 Source Code Access Note
-Note: The underlying SystemVerilog RTL and verification testbenches are maintained in a private branch for intellectual property (IP) protection and ongoing academic evaluation. For access requests, benchmarking, or academic collaboration inquiries, please contact the repository owner.
-
-# Secure Boot Finite State Machine (FSM) with Hardware Security Hardening
 A runtime tamper-hardened Secure Boot Finite State Machine (FSM), integrated with a high-performance **cryptographic hash core** optimized for Xilinx Artix-7 FPGA architectures.
+# 🔒 Source Code Access Note
+Note: The underlying SystemVerilog RTL and verification testbenches are maintained in a private branch for intellectual property (IP) protection and ongoing academic evaluation. For access requests, benchmarking, or academic collaboration inquiries, please contact the repository owner. 
+
  
 
 # Block Diagram
